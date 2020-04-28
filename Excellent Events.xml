@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch4jConfig>
+  <dontWrapJar>false</dontWrapJar>
+  <headerType>gui</headerType>
+  <jar>C:\Users\Ben\Documents\NetBeansProjects\Events System\dist\Events_System.jar</jar>
+  <outfile>C:\Users\Ben\Desktop\Excellent Final\Excellent Events.exe</outfile>
+  <errTitle></errTitle>
+  <cmdLine></cmdLine>
+  <chdir>.</chdir>
+  <priority>normal</priority>
+  <downloadUrl>http://java.com/download</downloadUrl>
+  <supportUrl></supportUrl>
+  <stayAlive>false</stayAlive>
+  <restartOnCrash>false</restartOnCrash>
+  <manifest></manifest>
+  <icon>C:\Users\Ben\Desktop\Excel Events\excellent.ico</icon>
+  <classPath>
+    <mainClass>events_system.Startup</mainClass>
+    <cp>lib/jcalendar-1.4.jar</cp>
+    <cp>lib/curvesapi-1.05.jar</cp>
+    <cp>lib/xmlbeans-3.0.1.jar</cp>
+    <cp>lib/poi-4.0.0.jar</cp>
+    <cp>lib/poi-examples-4.0.0.jar</cp>
+    <cp>lib/poi-excelant-4.0.0.jar</cp>
+    <cp>lib/poi-ooxml-4.0.0.jar</cp>
+    <cp>lib/poi-ooxml-schemas-4.0.0.jar</cp>
+    <cp>lib/poi-scratchpad-4.0.0.jar</cp>
+    <cp>lib/activation-1.1.1.jar</cp>
+    <cp>lib/commons-codec-1.11.jar</cp>
+    <cp>lib/commons-collections4-4.2.jar</cp>
+    <cp>lib/commons-logging-1.2.jar</cp>
+    <cp>lib/commons-math3-3.6.1.jar</cp>
+    <cp>lib/jaxb-api-2.3.0.jar</cp>
+    <cp>lib/jaxb-core-2.3.0.1.jar</cp>
+    <cp>lib/jaxb-impl-2.3.0.1.jar</cp>
+    <cp>lib/junit-4.12.jar</cp>
+    <cp>lib/log4j-1.2.17.jar</cp>
+    <cp>lib/commons-compress-1.5.jar</cp>
+    <cp>lib/derby.jar</cp>
+    <cp>lib/derbyclient.jar</cp>
+    <cp>lib/derbynet.jar</cp>
+  </classPath>
+  <jre>
+    <path>bin\jre1.8.0_181</path>
+    <bundledJre64Bit>false</bundledJre64Bit>
+    <bundledJreAsFallback>false</bundledJreAsFallback>
+    <minVersion></minVersion>
+    <maxVersion></maxVersion>
+    <jdkPreference>preferJre</jdkPreference>
+    <runtimeBits>64/32</runtimeBits>
+  </jre>
+  <messages>
+    <startupErr>An error occurred while starting the application.</startupErr>
+    <bundledJreErr>This application was configured to use a bundled Java Runtime Environment but the runtime is missing or corrupted.</bundledJreErr>
+    <jreVersionErr>This application requires a Java Runtime Environment</jreVersionErr>
+    <launcherErr>The registry refers to a nonexistent Java Runtime Environment installation or the runtime is corrupted.</launcherErr>
+    <instanceAlreadyExistsMsg>An application instance is already running.</instanceAlreadyExistsMsg>
+  </messages>
+</launch4jConfig>
