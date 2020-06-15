@@ -9,4 +9,7 @@ Java Runtime Environment (> JRE 1.8.0)
 ##Versioning
 Version 1.0
 
+##How to run
+Install the executable and you are good to go.
+
 
