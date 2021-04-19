@@ -12,6 +12,6 @@ Java Runtime Environment (> JRE 1.8.0)
 Version 1.0
 
 ##How to run
-Install the executable and you are good to go.
+Install the executable and you are good to go.(Works only on Windows 7 OS and above)
 
 
